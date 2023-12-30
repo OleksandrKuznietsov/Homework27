@@ -1,0 +1,14 @@
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:16 - Added order №1 for customer: Alen
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:16 - Added order №2 for customer: Yoda
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:16 - Added order №3 for customer: Obi-van
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:16 - Added order №4 for customer: John Snow
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:47 - Num | Name
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:49 - 1 | Alen
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:49 - 2 | Yoda
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:49 - 3 | Obi-van
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:49 - 4 | John Snow
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:22 - Delivered order №1 for customer: Alen
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:40 - Delivered order №2 for customer: Yoda
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:47 - Num | Name
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:49 - 3 | Obi-van
+2023-12-14 01:24:58 INFO  CoffeeOrderBoard:49 - 4 | John Snow
